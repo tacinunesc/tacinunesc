@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Sou Analista de Sistema
-- 🔭 Estou estudando ServiceNow, Java ...
+- 🔭 Estou estudando ServiceNow, Java, Python...
 - 😄 Pronouns: ela/dela
 
 
