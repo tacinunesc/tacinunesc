@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Sou Analista de Sistema
-- 🔭 Estou estudando Sistema Embarcados...
+- 🔭 Estou estudando Sistemas Embarcados...
 - 😄 Pronouns: ela/dela
 
 
