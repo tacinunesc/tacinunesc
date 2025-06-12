@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Sou Analista de Sistema
-- 🔭 Estou estudando Sistemas Embarcados...
+- 🔭 Residente em Sistemas Embarcados no IFCE...
 - 😄 Pronouns: ela/dela
 
 
